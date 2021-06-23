@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+#scoreboard {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    background-color: #7FDA56;
+    border: 5px solid #5B9C3D;
+    border-radius: 10px;
+}
+.div-canvas {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+#canvas {
+    height: 100%;
+    width: 100%;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 512px;
+    width: 575px;
+    margin-top: 1rem;
+}
+img {
+    margin: 2px;
+}
