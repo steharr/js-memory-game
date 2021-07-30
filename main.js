@@ -1,68 +1,68 @@
 document.addEventListener('DOMContentLoaded', function () {
     var cardArrayUnshuffled = [
         {
-            name: 'box',
-            img: 'images/icons8-box-128.png'
+            name: 'ball',
+            img: 'images/ball.png'
         },
         {
-            name: 'external-link',
-            img: 'images/icons8-external-link-128.png'
+            name: 'balloon',
+            img: 'images/balloon.png'
         },
         {
-            name: 'linkedin',
-            img: 'images/icons8-linkedin-128.png'
+            name: 'hand',
+            img: 'images/hand.png'
         },
         {
-            name: 'female-user',
-            img: 'images/icons8-female-user-128.png'
+            name: 'lightning',
+            img: 'images/lightning.png'
         },
         {
-            name: 'reddit',
-            img: 'images/icons8-reddit-128.png'
+            name: 'pointer',
+            img: 'images/pointer.png'
         },
         {
-            name: 'speech-bubble',
-            img: 'images/icons8-speech-bubble-128.png'
+            name: 'speech',
+            img: 'images/speech.png'
         },
         {
-            name: 'stumbleupon',
-            img: 'images/icons8-stumbleupon-128.png'
+            name: 'triangle',
+            img: 'images/triangle.png'
         },
         {
-            name: 'unavailable',
-            img: 'images/icons8-unavailable-128.png'
+            name: 'star',
+            img: 'images/star.png'
         },
         {
-            name: 'box',
-            img: 'images/icons8-box-128.png'
+            name: 'ball',
+            img: 'images/ball.png'
         },
         {
-            name: 'external-link',
-            img: 'images/icons8-external-link-128.png'
+            name: 'balloon',
+            img: 'images/balloon.png'
         },
         {
-            name: 'linkedin',
-            img: 'images/icons8-linkedin-128.png'
+            name: 'hand',
+            img: 'images/hand.png'
         },
         {
-            name: 'female-user',
-            img: 'images/icons8-female-user-128.png'
+            name: 'lightning',
+            img: 'images/lightning.png'
         },
         {
-            name: 'reddit',
-            img: 'images/icons8-reddit-128.png'
+            name: 'pointer',
+            img: 'images/pointer.png'
         },
         {
-            name: 'speech-bubble',
-            img: 'images/icons8-speech-bubble-128.png'
+            name: 'speech',
+            img: 'images/speech.png'
         },
         {
-            name: 'stumbleupon',
-            img: 'images/icons8-stumbleupon-128.png'
+            name: 'triangle',
+            img: 'images/triangle.png'
         },
         {
-            name: 'unavailable',
-            img: 'images/icons8-unavailable-128.png'
+            name: 'star',
+            img: 'images/star.png'
         }
     ];
     // globals
